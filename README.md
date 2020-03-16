@@ -1,2 +1,2 @@
 # hello-world
-Git Repo
+Going through the GitHub guides.
